@@ -1,0 +1,12 @@
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\bin\Debug\ImpuestoActividadesEconomicas.exe.config
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\bin\Debug\ImpuestoActividadesEconomicas.exe
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\bin\Debug\ImpuestoActividadesEconomicas.pdb
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\bin\Debug\ImpuestoActividadesEconomicas.xml
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\obj\Debug\ImpuestoActividadesEconomicas.vbproj.AssemblyReference.cache
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\obj\Debug\ImpuestoActividadesEconomicas.Resources.resources
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\obj\Debug\ImpuestoActividadesEconomicas.vbproj.GenerateResource.cache
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\obj\Debug\ImpuestoActividadesEconomicas.vbproj.CoreCompileInputs.cache
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\obj\Debug\ImpuestoActividadesEconomicas.exe
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\obj\Debug\ImpuestoActividadesEconomicas.xml
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\obj\Debug\ImpuestoActividadesEconomicas.pdb
+C:\Users\Osvaldo Garcia\source\repos\ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas\obj\Debug\ImpuestoActividadesEconomicas.Inicio.resources

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ImpuestoActividadesEconomicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA75345-BCCC-4090-B7C7-494C9DF88847}|ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas.vbproj|c:\\users\\osvaldo garcia\\source\\repos\\impuestoactividadeseconomicas\\impuestoactividadeseconomicas\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0BA75345-BCCC-4090-B7C7-494C9DF88847}|ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas.vbproj|solutionrelative:impuestoactividadeseconomicas\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA75345-BCCC-4090-B7C7-494C9DF88847}|ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas.vbproj|C:\\Users\\Osvaldo Garcia\\source\\repos\\ImpuestoActividadesEconomicas\\impuestoactividadeseconomicas\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0BA75345-BCCC-4090-B7C7-494C9DF88847}|ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas.vbproj|solutionrelative:impuestoactividadeseconomicas\\inicio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA75345-BCCC-4090-B7C7-494C9DF88847}|ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas.vbproj|C:\\Users\\Osvaldo Garcia\\source\\repos\\ImpuestoActividadesEconomicas\\impuestoactividadeseconomicas\\impuestoactividadeconomica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0BA75345-BCCC-4090-B7C7-494C9DF88847}|ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas.vbproj|solutionrelative:impuestoactividadeseconomicas\\impuestoactividadeconomica.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImpuestoActividadEconomica.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas\\ImpuestoActividadEconomica.vb",
+              "RelativeDocumentMoniker": "ImpuestoActividadesEconomicas\\ImpuestoActividadEconomica.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas\\ImpuestoActividadEconomica.vb",
+              "RelativeToolTip": "ImpuestoActividadesEconomicas\\ImpuestoActividadEconomica.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-05T01:59:19.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.vb",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas\\Inicio.vb",
+              "RelativeDocumentMoniker": "ImpuestoActividadesEconomicas\\Inicio.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas\\Inicio.vb",
+              "RelativeToolTip": "ImpuestoActividadesEconomicas\\Inicio.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-05T02:04:10.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inicio.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas\\Inicio.vb",
+              "RelativeDocumentMoniker": "ImpuestoActividadesEconomicas\\Inicio.vb",
+              "ToolTip": "C:\\Users\\Osvaldo Garcia\\source\\repos\\ImpuestoActividadesEconomicas\\ImpuestoActividadesEconomicas\\Inicio.vb [Dise\u00F1o]",
+              "RelativeToolTip": "ImpuestoActividadesEconomicas\\Inicio.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-05T01:58:08.909Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

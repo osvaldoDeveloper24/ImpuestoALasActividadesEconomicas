@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ImpuestoActividadesEconomicas", "ImpuestoActividadesEconomicas\ImpuestoActividadesEconomicas.vbproj", "{0BA75345-BCCC-4090-B7C7-494C9DF88847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA75345-BCCC-4090-B7C7-494C9DF88847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA75345-BCCC-4090-B7C7-494C9DF88847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA75345-BCCC-4090-B7C7-494C9DF88847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA75345-BCCC-4090-B7C7-494C9DF88847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72E81FF0-152E-495C-80DA-C3693ADA00B6}
+	EndGlobalSection
+EndGlobal
